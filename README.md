@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi Dammonmarrod here 👋
+[![Twitter Follow](https://img.shields.io/twitter/follow/dammonmarrod?color=%231DA1F2&logo=twitter&style=social)](https://twitter.com/dammonmarrod)
+
 
 <!--
 **dammonmarrod/dammonmarrod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
